@@ -1,7 +1,7 @@
 
 #import this
 #print("¡Hola, mundo!")
-nombre = "Lucia"
+nombre = "Carlos"
 edad = 28
 altura = 1.65
 le_gusta_python = True
