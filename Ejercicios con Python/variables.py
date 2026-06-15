@@ -6,3 +6,4 @@ edad = 28
 altura = 1.65
 le_gusta_python = True
 print(f"Hola, soy {nombre}. Tengo {edad} años. Mido {altura} metros y me gusta Python: {le_gusta_python}")
+print("hola, soy " + nombre + ". Tengo " + str(edad) + " años. Mido " + str(altura) + " metros y me gusta Python: " + str(le_gusta_python))
